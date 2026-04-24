@@ -1,0 +1,14 @@
+/home/a/studia/psk/bin/Debug/net8.0/psk
+/home/a/studia/psk/bin/Debug/net8.0/psk.deps.json
+/home/a/studia/psk/bin/Debug/net8.0/psk.runtimeconfig.json
+/home/a/studia/psk/bin/Debug/net8.0/psk.dll
+/home/a/studia/psk/bin/Debug/net8.0/psk.pdb
+/home/a/studia/psk/obj/Debug/net8.0/psk.GeneratedMSBuildEditorConfig.editorconfig
+/home/a/studia/psk/obj/Debug/net8.0/psk.AssemblyInfoInputs.cache
+/home/a/studia/psk/obj/Debug/net8.0/psk.AssemblyInfo.cs
+/home/a/studia/psk/obj/Debug/net8.0/psk.csproj.CoreCompileInputs.cache
+/home/a/studia/psk/obj/Debug/net8.0/psk.dll
+/home/a/studia/psk/obj/Debug/net8.0/refint/psk.dll
+/home/a/studia/psk/obj/Debug/net8.0/psk.pdb
+/home/a/studia/psk/obj/Debug/net8.0/psk.genruntimeconfig.cache
+/home/a/studia/psk/obj/Debug/net8.0/ref/psk.dll
