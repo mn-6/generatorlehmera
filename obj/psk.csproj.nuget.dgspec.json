@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/a/studia/psk/psk.csproj": {}
+    "/home/a/GitHub/generatorlehmera/psk.csproj": {}
   },
   "projects": {
-    "/home/a/studia/psk/psk.csproj": {
+    "/home/a/GitHub/generatorlehmera/psk.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/a/studia/psk/psk.csproj",
+        "projectUniqueName": "/home/a/GitHub/generatorlehmera/psk.csproj",
         "projectName": "psk",
-        "projectPath": "/home/a/studia/psk/psk.csproj",
+        "projectPath": "/home/a/GitHub/generatorlehmera/psk.csproj",
         "packagesPath": "/home/a/.nuget/packages/",
-        "outputPath": "/home/a/studia/psk/obj/",
+        "outputPath": "/home/a/GitHub/generatorlehmera/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/a/.nuget/NuGet/NuGet.Config"
